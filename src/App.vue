@@ -3,7 +3,8 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
     <router-link to="/HttpMethods">HttpMethods</router-link> |
-    <router-link to="/Rateindex">RateIndex</router-link>
+    <router-link to="/Rateindex">RateIndex</router-link> |
+    <router-link to="/Forms">Forms</router-link>
   </nav>
   <router-view/>
 </template>
